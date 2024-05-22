@@ -1,6 +1,7 @@
 # CHESS
 
 #Python Chess with Turtle Graphics
+
 This Python project implements a simple chess game using the Turtle module for graphical interface. It allows players to engage in a classic game of chess right in their Python environment, providing both entertainment and a learning experience.
 
 #Features
